@@ -1,6 +1,7 @@
 # Core Concepts
 - Digital Design
 - Computer Architecture
+- Coumouter organization
 # Reference books 
 - Computer Organization and Design: ARM Edition - David A. Patterson, John L. Hennessy
 - Digital Design and Computer Architecture: ARM Edition - Sarah Harris, David Harris
